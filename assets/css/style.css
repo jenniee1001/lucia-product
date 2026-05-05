@@ -26575,7 +26575,7 @@ body.tmp-white-version.index-8 .tmp-contact-about-inner .info-box {
   background-size: cover;
   position: relative;
   padding: 100px 0;
-  background: #1b1b1c;
+  background: #060606;
 }
 @media only screen and (max-width: 575px) {
   .tmp-footer-area-style-net .footer-style-3 .tmp-call-to-action.style-8 {
@@ -26586,7 +26586,7 @@ body.tmp-white-version.index-8 .tmp-contact-about-inner .info-box {
   position: relative;
   z-index: 1;
   background-image: none !important;
-  background-color: rgba(27, 27, 28, 0.5568627451) !important;
+  background-color: rgba(6, 6, 6, 0.56) !important;
 }
 .tmp-footer-area-style-net .bg_patern-1::after {
   background-size: auto !important;
