@@ -61,7 +61,7 @@
 :root {
   --color-primary: #FF014F;
   --color-primary-alt: #ff014dd9;
-  --color-primary-2nd: #FF494A;
+  --color-primary-2nd: #5B21B6;
   --color-primary-3rd: #FDC448;
   --color-primary-4th: #0071ff;
   --color-secondary: #060606;
@@ -13104,7 +13104,7 @@ header.header-full-width.header--sticky.sticky {
   height: 300px;
   bottom: 0;
   z-index: -1;
-  background: linear-gradient(180deg, #FF494A 0%, rgba(255, 73, 74, 0) 100%);
+  background: linear-gradient(180deg, #5B21B6 0%, rgba(255, 73, 74, 0) 100%);
   border-radius: 291.5px 291.5px 0px 0px;
 }
 @media (min-width: 400px) {
@@ -13586,7 +13586,7 @@ header.header-full-width.header--sticky.sticky {
   position: absolute;
   bottom: 0;
   left: 20%;
-  -webkit-text-stroke: 1.25px #FF494A;
+  -webkit-text-stroke: 1.25px #5B21B6;
   font-family: var(--font-primary);
   font-size: 150px;
   font-weight: 700;
@@ -18210,7 +18210,7 @@ section.clients-testimonial-area {
   height: 300px;
   bottom: 0;
   z-index: -1;
-  background: linear-gradient(180deg, #FF494A 0%, rgba(255, 73, 74, 0) 100%);
+  background: linear-gradient(180deg, #5B21B6 0%, rgba(255, 73, 74, 0) 100%);
   border-radius: 291.5px 291.5px 0px 0px;
 }
 @media (min-width: 400px) {
@@ -18692,7 +18692,7 @@ section.clients-testimonial-area {
   position: absolute;
   bottom: 0;
   left: 20%;
-  -webkit-text-stroke: 1.25px #FF494A;
+  -webkit-text-stroke: 1.25px #5B21B6;
   font-family: var(--font-primary);
   font-size: 150px;
   font-weight: 700;
